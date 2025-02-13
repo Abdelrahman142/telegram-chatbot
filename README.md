@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 4️⃣ Run the Bot
 ```
-python bot.py
+python app.py
 ```
 Usage
 
