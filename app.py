@@ -2,7 +2,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 import subprocess
 
-TOKEN = "7344446832:AAHZXENjs1m052UXN4epwZKyl5hT5dfKaLI"
+TOKEN = "put your token here"
 
 async def start(update: Update, context: CallbackContext):
     keyboard = [
