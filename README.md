@@ -22,7 +22,7 @@ pip install -r requirements.txt
 3️⃣ Set Up Your Bot
 ```
     Create a bot on Telegram using BotFather
-    Get your bot token and replace TOKEN = "YOUR_BOT_TOKEN" in bot.py
+    Get your bot token and replace TOKEN = "YOUR_BOT_TOKEN" in app.py
 ```
 4️⃣ Run the Bot
 ```
