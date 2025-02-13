@@ -12,8 +12,8 @@ This is a Telegram bot that allows you to monitor system performance, check runn
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/Abdelrahman142/telegram-chatbot.git
+cd telegram-chatbot
 ```
 2️⃣ Install Dependencies
 ```
